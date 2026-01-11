@@ -7,14 +7,9 @@
 <title>Insert title here</title>
 </head>
 <body>
-	
-
-    <%@ include file="Header.jsp" %>
-
-<h1>Welcome to my Website</h1>
-	
-<div style="position: fixed; bottom: 0; left: 0; width: 100%; z-index: 1000;">
-    <%@ include file="Footer.jsp" %>
+<hr><div style="position:fixed; bottom:0; width:100%; background:black; color:white; text-align:center;">
+<h5 align="center">All rights by Rays Technologies , SunilOS infotech Pvt Ltd Copyright &copy; 2024</h5>
+<hr>
 </div>
 </body>
 </html>
